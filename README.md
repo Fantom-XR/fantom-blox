@@ -1,7 +1,7 @@
 
 **Getting Started**  
 Fantom Blox is an advanced, easy to setup, free, and unbranded Discord-Roblox ranking bot. The instructions to set it up and host it are available here: 
-
+https://github.com/Fantom-XR/fantom-blox/wiki/Setup
 
 There is currently 1 branches of Fantom Blox available:  
 `main` - The latest version of Fantom Blox.
