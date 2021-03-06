@@ -15,7 +15,7 @@ Fantom Blox can only run on Node.js v12 or higher.
 License: https://github.com/Fantom-XR/fantom-blox/blob/main/LICENSE  
 Acknowledgements: https://github.com/Fantom-XR/fantom-blox/blob/main/acknowledgements.md  
 
-Please note we are not responsible for if anything happens to your bot account. It is your responsibility to keep the cookie and token away from anyone you don't trust. qbot uses noblox.js to interact with Roblox API with your bot cookie, and discord.js to interact with the Discord API with your bot token. Do not share your config.json file with anyone once filled out.
+Please note we are not responsible for if anything happens to your bot account. It is your responsibility to keep the cookie and token away from anyone you don't trust. Fantom Blox uses noblox.js to interact with Roblox API with your bot cookie, and discord.js to interact with the Discord API with your bot token. Do not share your config.json file with anyone once filled out.
 
 Please also note that Discord has a TOS for its API: https://discord.com/developers/docs/legal
 
